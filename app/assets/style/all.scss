@@ -1,13 +1,14 @@
 $color: #00cc99;
+$color2: #99cc00;
 
 .header {
   height: 200px;
-  background-color: #00cc99;
+  background-color: $color;
 }
 
 .footer {
   height: 200px;
-  background-color: #00cc99;
+  background-color: $color2;
 }
 
 .box {
